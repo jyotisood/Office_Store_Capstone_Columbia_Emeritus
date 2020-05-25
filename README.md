@@ -63,7 +63,7 @@ In this notebook, the initial data exploration is done.
 After EDA, this is the main notebook in which models are created and data is analysed. 
 
 #### 4. Analysis Slideshow
-This file has all the analysis charts. It can be viewed using nbviewer by putting the github link of html file (Analysis_slideshow slides.html) on nbviewer here: https://nbviewer.jupyter.org/
+This file has all the analysis charts. It can be viewed using nbviewer by pasting the github link of html file (https://github.com/jyotisood/Office_Store_Capstone_Columbia_Emeritus/blob/master/Analysis_slideshow.slides.html) on nbviewer: https://nbviewer.jupyter.org/
 
 #### 5. Office Corp Presentation
 The final presentation deck created for the client. All the results of analysis are summarized here.
